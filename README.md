@@ -3,4 +3,4 @@
 
 # My youtube channel:
 
-<h2><a href="https://youtube.com/@massmediaacademy?si=pY9HYp-OyqgCnkfH">YouTube </a></h2>
+<h2><a href="https://youtube.com/@massmediaacademy?si=pY9HYp-OyqgCnkfH">📽️YouTube </a></h2>
